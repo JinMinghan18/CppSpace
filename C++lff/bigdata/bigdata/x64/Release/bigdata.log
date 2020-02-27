@@ -1,0 +1,9 @@
+﻿  NumListA.cpp
+f:\mycppspace\c++lff\numlista.cpp(74): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  numListB.cpp
+numListB.obj : error LNK2001: 无法解析的外部符号 "public: class NumList __cdecl NumList::operator=(class NumList const &)" (??4NumList@@QEAA?AV0@AEBV0@@Z)
+numListB.obj : error LNK2001: 无法解析的外部符号 "public: class NumList __cdecl NumList::operator%(class NumList const &)" (??LNumList@@QEAA?AV0@AEBV0@@Z)
+numListB.obj : error LNK2001: 无法解析的外部符号 "public: class NumList __cdecl NumList::operator-(class NumList const &)" (??GNumList@@QEAA?AV0@AEBV0@@Z)
+numListB.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl NumList::inputNum(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?inputNum@NumList@@QEAAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+numListB.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl NumList::printNum(void)" (?printNum@NumList@@QEAAXXZ)
+F:\Mycppspace\C++lff\bigdata\x64\Release\bigdata.exe : fatal error LNK1120: 5 个无法解析的外部命令

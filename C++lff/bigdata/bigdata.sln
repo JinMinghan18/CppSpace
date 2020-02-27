@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bigdata", "bigdata\bigdata.vcxproj", "{966AC056-A29B-4461-8052-A8A18919A5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Debug|x64.ActiveCfg = Debug|x64
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Debug|x64.Build.0 = Debug|x64
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Debug|x86.Build.0 = Debug|Win32
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Release|x64.ActiveCfg = Release|x64
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Release|x64.Build.0 = Release|x64
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Release|x86.ActiveCfg = Release|x64
+		{966AC056-A29B-4461-8052-A8A18919A5DF}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B419EB16-144D-49CF-BF4C-1ADA0DAA4213}
+	EndGlobalSection
+EndGlobal

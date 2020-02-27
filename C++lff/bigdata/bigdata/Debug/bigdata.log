@@ -1,0 +1,5 @@
+﻿  NumListA.cpp
+  numListB.cpp
+  正在生成代码...
+f:\mycppspace\c++lff\numlista.cpp(411): warning C4715: “NumList::compareto”: 不是所有的控件路径都返回值
+  bigdata.vcxproj -> F:\Mycppspace\C++lff\bigdata\Debug\bigdata.exe
