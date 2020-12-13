@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\MyStudySpace\CppSpace\Compilers_principles\ex1\regular_expression2NFA\main.cpp(11,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  regular_expression2NFA.vcxproj -> D:\MyStudySpace\CppSpace\Compilers_principles\ex1\regular_expression2NFA\Debug\regular_expression2NFA.exe

@@ -1,0 +1,61 @@
+0:
+S->.E
+E->.aA
+E->.bB
+
+1:
+S->E.
+
+2:
+E->a.A
+A->.cA
+A->.d
+
+3:
+E->b.B
+B->.cB
+B->.d
+
+4:
+E->aA.
+
+5:
+A->c.A
+A->.cA
+A->.d
+
+6:
+A->d.
+
+7:
+E->bB.
+
+8:
+B->c.B
+B->.cB
+B->.d
+
+9:
+B->d.
+
+10:
+A->cA.
+
+11:
+B->cB.
+
+LR0·ÖÎö±í£º
+              Action              Goto
+       a    b    c    d    #    E    A    B
+ 0:   S2   S3                   1          
+ 1:   r7   r7   r7   r7   r7               
+ 2:             S5   S6              4     
+ 3:             S8   S9                   7
+ 4:   r8   r8   r8   r8   r8               
+ 5:             S5   S6             10     
+ 6:   r9   r9   r9   r9   r9               
+ 7:   r10   r10   r10   r10   r10               
+ 8:             S8   S9                  11
+ 9:   r11   r11   r11   r11   r11               
+10:   r12   r12   r12   r12   r12               
+11:   r13   r13   r13   r13   r13               

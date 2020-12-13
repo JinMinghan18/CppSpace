@@ -1,0 +1,2 @@
+D:\MyStudySpace\CppSpace\operation_system\ex2\producer_customer\Debug\producer_customer.exe
+D:\MyStudySpace\CppSpace\operation_system\ex2\producer_customer\Debug\producer_customer.pdb

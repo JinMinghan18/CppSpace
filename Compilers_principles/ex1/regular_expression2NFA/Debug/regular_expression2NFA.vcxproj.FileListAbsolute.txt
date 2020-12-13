@@ -1,0 +1,2 @@
+D:\MyStudySpace\CppSpace\Compilers_principles\ex1\regular_expression2NFA\Debug\regular_expression2NFA.exe
+D:\MyStudySpace\CppSpace\Compilers_principles\ex1\regular_expression2NFA\Debug\regular_expression2NFA.pdb

@@ -1,0 +1,2 @@
+D:\MyStudySpace\CppSpace\operation_system\ex3\Bankers\Debug\Bankers.exe
+D:\MyStudySpace\CppSpace\operation_system\ex3\Bankers\Debug\Bankers.pdb
